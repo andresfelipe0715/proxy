@@ -16,4 +16,4 @@ services:
 networks:
   default:
     name: proxy-tier
-    external: false
+    external: true
